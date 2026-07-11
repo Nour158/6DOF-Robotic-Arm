@@ -1,2 +1,3 @@
-Arduino IDE
-Servo Library
+Arduino IDE >= 2.0
+ESP32 Arduino Core
+ESP32Servo Library
