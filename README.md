@@ -1,14 +1,14 @@
-# 🤖 6-DOF Robotic Arm using ESP32
+# 🤖 6-DOF Robotic Arm using Arduino & ESP32
 
-A robotics project that controls a **6-Degree-of-Freedom (6-DOF) robotic arm** using an **ESP32** microcontroller and servo motors. The project demonstrates coordinated robotic arm movement through multiple joints, providing hands-on experience with embedded systems and robotics.
+A robotics project that controls a **6-Degree-of-Freedom (6-DOF) robotic arm** using **Arduino**, **ESP32**, and servo motors. The project demonstrates coordinated robotic arm movement while integrating embedded systems for hardware control.
 
 ---
 
 ## 📌 Project Overview
 
-This project implements a 6-DOF robotic arm controlled by an ESP32 development board. The robotic arm is driven by multiple servo motors to perform coordinated movements, demonstrating the fundamentals of robotic manipulation, embedded programming, and servo control.
+This project implements a 6-DOF robotic arm controlled using Arduino and ESP32 microcontrollers. Multiple servo motors drive the robotic arm to perform coordinated movements, providing hands-on experience with embedded systems, robotics programming, and servo motor control.
 
-The project was developed as part of a robotics programming course to gain practical experience in designing, programming, and controlling robotic systems.
+The project was developed as part of a robotics programming course to strengthen practical skills in robotics and embedded systems.
 
 ---
 
@@ -26,26 +26,27 @@ A demonstration video of the robotic arm is available in the **media/** folder.
 
 ## 🚀 Features
 
-- Control of 5 servo motors
+- Control of multiple servo motors
 - Coordinated robotic arm movement
-- ESP32-based embedded system
-- Servo motor position control
-- Practical robotics implementation
+- Arduino and ESP32 integration
+- Embedded systems programming
+- Real hardware implementation
 
 ---
 
 ## 🛠 Technologies Used
 
+- Arduino
 - ESP32
 - C++
 - Arduino IDE
-- ESP32 Arduino Framework
 - Servo Library
 
 ---
 
 ## ⚙️ Hardware Components
 
+- Arduino Board
 - ESP32 Development Board
 - 5 Servo Motors
 - 5-DOF Robotic Arm Kit
@@ -77,17 +78,15 @@ A demonstration video of the robotic arm is available in the **media/** folder.
 git clone https://github.com/Nour158/5DOF-Robotic-Arm.git
 ```
 
-2. Open the `5dof.ino` file using the Arduino IDE.
+2. Open `5dof.ino` using the Arduino IDE.
 
-3. Select your ESP32 board.
+3. Connect the Arduino and ESP32 boards.
 
-4. Connect the ESP32.
+4. Upload the code.
 
-5. Upload the program.
+5. Power the robotic arm using the external power supply.
 
-6. Power the robotic arm using the external power supply.
-
-7. Observe the robotic arm movement.
+6. Test the robotic arm movement.
 
 ---
 
@@ -95,11 +94,11 @@ git clone https://github.com/Nour158/5DOF-Robotic-Arm.git
 
 - Bluetooth control
 - Wi-Fi remote control
-- Forward Kinematics implementation
-- Inverse Kinematics implementation
+- Joystick control
+- Forward Kinematics
+- Inverse Kinematics
 - Computer Vision integration
 - Object pick-and-place tasks
-- ROS integration
 
 ---
 
