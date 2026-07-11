@@ -1,6 +1,6 @@
 # 🤖 6-DOF Robotic Arm using Arduino
 
-A robotics project that controls a **5-Degree-of-Freedom (5-DOF) robotic arm** using Arduino and servo motors. The project demonstrates robotic arm movement by controlling multiple joints to perform coordinated motions.
+A robotics project that controls a **6-Degree-of-Freedom (6-DOF) robotic arm** using Arduino and servo motors. The project demonstrates robotic arm movement by controlling multiple joints to perform coordinated motions.
 
 ---
 
