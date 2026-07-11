@@ -1,4 +1,3 @@
-# 6DOF-Robotic-Arm
 # 6-DOF Robotic Arm
 
 A robotics project that controls a 6-DOF robotic arm using Arduino and servo motors.
